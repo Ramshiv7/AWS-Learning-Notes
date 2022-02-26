@@ -1,0 +1,24 @@
+Design and implement highly scalable, microservices.
+Designing, deploying, and manging the microservices created by the development teams, using Docker and Kubernetes.
+Designing and implementing a robust CI/CD environment using Github Actions, GIT
+Design and develop integration solutions
+Leverage modern DevOps, SRE, & CI/CD practices and drive proactive infrastructure improvements to optimize our operational efficiency
+Collaborate with product team to define software requirements for programming effort
+Lead/Contribute to the entire Feature development lifecycle, all the way from design, implementation, production operations.
+Collaborate with a cross-functional team of engineers to build SaaS products for large-data processing.
+Write optimal code for new algorithms and maintain existing algorithms.
+Qualifications
+4+ years of hands-on experience on AWS is must. (AWS and GCP is good to have)
+AWS Certification Infrastructure Solutions
+Experience in managing and automating the deployment of Microservice based architecture
+Hands-on experience in container-based deployments and orchestration tools (e.g., Kubernetes, Docker, EKS, AKS, GKE)
+Good understanding of CICD pipelines and Kubernetes application packaging tools like Helm Charts, Kubepack, etc.
+Good understanding of Kubernetes including concepts like Deployments, Ingress, ConfigMap, Secrets, Daemonsets, StatefulSets, etc.
+Hands on experience on Kubernetes service mesh services like Istio, Linkerd, Consule, etc.
+Hands-on experience on Kubernetes load balancer tools like Traefik, Nginx, Envoy, etc. (Anyone)
+Should have good understanding and hands-on experience of Kubernetes observability using tools like Prometheus, Grafana, ELK stack, Fluentd, etc.
+Should have good understanding of Kubernetes security best practices, Open Policy Agent (OPA), container image security, etc.
+Hands-on experience in Infrastructure as code (IaC) tools like Terraform, AWS CloudFormation, Azure ARM templates for setting up environment from scratch
+Hands-on experience in scripting and automation using Python, Bash, PowerShell
+Designing solutions using one or more AWS features, tools, and technologies such as EC2, EBS, Glacier, S3, EKS, Fargate, ECR, ELB, CloudFormation, Lambada, CloudWatch, VPC, RDS, Direct Connect, AWS CLI, REST API and other
+Hands-on experience in CICD tooling like Git, Jenkins, GitHub-Action, Gitlab-CI, Travis, Circle CI etc. (any two)

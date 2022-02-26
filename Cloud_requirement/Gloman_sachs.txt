@@ -1,0 +1,16 @@
+Required Qualifications
+Bachelor’s degree or relevant work experience in Computer Science or a related field.
+Cloud experience
+Sound understanding of SDLC, CI/CD, IaC, and DevOps principles and best practices.
+Experience with various deployment strategies (e.g. rolling releases, blue/green deployments).
+Experience with agile methodologies such as scrum, and working with product managers.
+Focus on thorough testing, code quality and delivery.
+Preferred Qualifications
+Have some experience in other areas of engineering including Go, Node.js, and React
+AWS experience is highly preferred.
+Kubernetes experience.
+Experience with GitLab CI/CD and ‘review apps’/test environments for feature branches.
+Experience with Git Flow, GitHub flow or a similar SDLC.
+Experience with observability, monitoring, and alerting with technologies such as Elastic APM, Kibana, Datadog, Splunk, Prometheus, Grafana, Pagerduty, etc.
+Comfortable multi-tasking, managing multiple stakeholders and working in a global team.
+Experience with JVM languages like Kotlin/Java/Scala and build systems such as Gradle and Webpack is a plus.

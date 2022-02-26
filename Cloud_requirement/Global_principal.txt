@@ -1,0 +1,5 @@
+Cloud Platforms – AWS
+Database – SQL(Amazon Redshift, Amazon RDS), NoSQL(Amazon DynamoDB), Postgres, JSON, file
+Amazon S3, AWS Glue, AWS Lambda, Amazon Athena, AWS Lake Formation, Step Functions and DMS
+Programming languages such as Scala, Java, Python
+Familiarity with CI/CD pipelines, test-driven development, etc.

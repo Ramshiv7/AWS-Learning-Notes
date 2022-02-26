@@ -1,0 +1,18 @@
+Masters/Bachelors degree in electrical, communications, computer engineering or a similar discipline
+Should have 10 to 12 years of overall experience
+Deep knowledge and hands on experience with AWS or Azure Cloud Services as a product offering.
+Deep knowledge in writing cloud solutions using programming languages like NodeJs (preferred) or Java (optional).
+Deep knowledge in designing and developing cloud native solutions
+Deep knowledge in developing asynchronous applications in cloud setting
+Hands on experience in building Big Data analytics applications using solutions like Spark
+Hands on experience with implementations of REST based web services and clients for testing.
+Hands on experience with implementations using micros services architecture.
+Hands on experience with JavaScript libraries and frameworks like Angular, ReactJS, Vue
+Hands on experience with NoSQL Databases like Amazon Dynamodb, MongoDB, Cassandra.
+Hands on experience with Relational databases like MySQL, Postgres or Amazon RDS.
+Hands on Experience using standard IDE’s like eclipse, visual studio etc.
+Hands on Experience with Git, Jenkins or team city for version control and continuous Integration.
+Hands on Experience with any of the unit testing frameworks like Mocha, JUnit.
+Knowledge of various data interchange mechanisms like JSON, protocol buffers.
+Familiarity with in-memory caching like memcached or redis or elastic cache.
+Understanding of modern software development tools and management.

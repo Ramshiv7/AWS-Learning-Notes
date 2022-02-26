@@ -1,0 +1,27 @@
+Advanced knowledge of Java, REST Architecture and JSON
+Solid CS fundamentals are a must. (Data structures, Algorithms)
+Knowledge of cloud infrastructure - Compute, Network and Storage
+Knowledge of Database systems. Oracle Database a plus
+Knowledge of Linux
+Scripting skills (Shell, Python, Javascript).
+Experience in test automation using frameworks like Cucumber
+Experience in monitoring and dashboards using Prometheus, Grafana, ELK stack
+Experience in Enterprise Security
+Experience in building and managing Docker containers
+Experience in microservice frameworks like Dropwizard
+Experience with using Agile/Scrum
+Excellent communication abilities
+
+Bachelor’s degree in Computer Science, Information Systems or equivalent degree required
+This is an entry level position; the ideal person needs to be motivated and willing to learn
+Knowledge of cloud computing platforms such as AWS, Azure, and Google Cloud (demonstrable proficiency or professional experience preferred)
+Knowledge of Relational and No-SQL databases (demonstrable proficiency or professional experience preferred)
+Familiarity of configuration management and orchestration technologies and techniques
+Proficiency in one or more programming language
+Familiarity in operating system administration
+Ability to handle a heavy workload with multiple projects and frequent interruptions
+Ability to work in a changing, dynamic environment
+Strong written and verbal communication skills
+
+Having Experience in integrating salesforce with external application using third party tools via SOAP and REST API Integration.
+Extensive experience with APEX programming, SOQL, APIs in salesforce

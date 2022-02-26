@@ -1,0 +1,16 @@
+Required(Must-have) Skills
+
+Experience running mission-critical Linux production servers
+Python development expertise a must with Object Oriented Programming Model
+Good Communication and debugging skills
+Good in a framework like Flask or Django
+
+Desirable (Good-to-have) Skills
+
+Experience in CI / CD using Jenkins / Hudson or similar tools
+Good understanding and working experience in Oracle Cloud Infrastructure(preferably) or AWS or similar cloud environments
+Hands-on experience in Docker, K8s, Oracle DB 12c or later (Installation, Configuration and Monitoring)
+Understanding of Firewalls, DNS, LBR, Security Rules and networking concepts
+Exposure to MVC framework and web technologies
+Javascript / AJAX
+Experience with DBaaS and NoSQL DB (Oracle / Other)
