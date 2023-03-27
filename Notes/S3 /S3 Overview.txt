@@ -1,0 +1,5 @@
+S3 Bucket :
+
+S3 -> Simple Storage Service 
+
+# Object and its metadata can be stored
