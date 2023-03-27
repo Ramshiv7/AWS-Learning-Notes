@@ -1,0 +1,23 @@
+Ec2 Instances :
+
+Instances -> Virtual Servers 
+
+
+Virtual Servers that provides Scalable, Compute Capacity, Storage, Network, and Low Latency with High Throughput.
+
+Ability to Spin-up Virtual Servers within Fraction of Minutes.
+
+
+What problems does it solve ?
+
+* Ability to Spin-up Servers within Minutes.
+* Overcome Traditional Complexity of Planning, Purachasing Hardware & Infrastructure 
+* SLA for Ec2 Instances are 99.99999999999 ( 11 * 9s)
+* Scalable
+* High Availability 
+* Low Latency
+* High Throughput 
+* Resilant to Natural Calamities
+* Can to Deploy to the Closest Infrastructure of the Customer 
+
+

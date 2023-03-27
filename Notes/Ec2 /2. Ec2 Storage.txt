@@ -1,0 +1,23 @@
+Ec2 Storage :
+
+Ec2 configurations are written in a document called AMI ( Amazon Machine Image )
+
+Ec2 can uses its host computer storage block. However, it is Temporary storage block.
+
+To have Persistant Storage, Amazon Introduced Elastic Block Storage ( EBS )
+
+Amazon Elastic Block Storage :
+
+EBS -> is a Persistant Storage for Amazon Ec2 
+
+EBS holds -> RAW, Unformatted, External Block Device 
+
+EBS can be taken as SnapShot, and the Snapshot can Backed up in S3 Bucket
+
+
+Advantage of Ec2 Storage :
+
+* Flexible
+* Cost Effective 
+* Easy to Use
+
